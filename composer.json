@@ -59,7 +59,7 @@
   
         "allow-plugins": {
             "symfony/thanks": true
-        }
+        },
    
         "optimize-autoloader": true,
         "preferred-install": {
