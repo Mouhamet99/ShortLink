@@ -56,6 +56,11 @@
         "symfony/web-profiler-bundle": "5.3.*"
     },
     "config": {
+  
+        "allow-plugins": {
+            "symfony/thanks": true
+        }
+   
         "optimize-autoloader": true,
         "preferred-install": {
             "*": "dist"
